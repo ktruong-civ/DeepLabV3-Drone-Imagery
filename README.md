@@ -7,6 +7,7 @@ I included all python files that had to be modified in the Important Files folde
 
 ![alt text](https://github.com/ktruong-civ/DeepLabV3-Drone-Imagery/Result Image Examples/Material/blob/master/DJI_0258 011.jpg?raw=true)
 /Result Image Examples/Material/DJI_0258 011.jpg
+![Alt text](ktruong-civ/DeepLabV3-Drone-Imagery/Result Image Examples/Material//DJI_0258 011.jpg?raw=true "Optional Title")
 
 The repository contains two .ipynb files. These files can be opened in Google Colab. It is recommended to use Google Chrome when using these files. "DeeplabV3+ Drone Imagery.ipynb" contains the main code for training machine learning models. After training, a frozen model can be exported and used to run inferences. "Create Labeled Dataset.ipynb" is a script that has been written to run automatic inferences on images using the frozen model.
 
